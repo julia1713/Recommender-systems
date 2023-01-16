@@ -5,9 +5,9 @@ A recommendation system is an artificial intelligence or AI algorithm, usually a
 
 There are two main types of recommender systems – personalized and non-personalized. 
 
-**Non-personalized recommendation systems** like popularity based recommenders recommend the most popular items to the users, for instance top-10 movies, top selling books, the most frequently purchased products. 
+▶**Non-personalized recommendation systems** like popularity based recommenders recommend the most popular items to the users, for instance top-10 movies, top selling books, the most frequently purchased products. 
 
 
-**Personalized recommender systems** analyze users data, their purchases, rating and their relationships with other users in more detail. In that way every user will get customized recommendations.
+▶**Personalized recommender systems** analyze users data, their purchases, rating and their relationships with other users in more detail. In that way every user will get customized recommendations.
 
-  ➡ The most popular types of **personalized recommendation systems** are **content based** and **collaborative filtering**.
+       ➡ The most popular types of personalized recommendation systems are content based and collaborative filtering
